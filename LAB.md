@@ -64,9 +64,10 @@ Stash лучше wip коммита, если работа прерываетс�
 
 **Скриншоты (1–2 шт.):**
 
-[stash list после push](screenshots/star1-stash-1.png)
+![stash list после push](screenshots/star1-stash-1.png)
 
-[git status после pop ](screenshots/star1-stash-2.png)
+![git status после pop ](screenshots/star1-stash-2.png)
+
 ---
 
 ## ⭐2 — cherry-pick с конфликтом
@@ -91,4 +92,4 @@ ami_id        = "ami-0c7217cdde317cf38"
 
 **Скриншоты (1–2 шт.):**
 
-[tfvars с маркерами конфликта / git log с cherry-pick trailer ](screenshots/star2-cherry-pick-1.png)
+![tfvars с маркерами конфликта / git log с cherry-pick trailer ](screenshots/star2-cherry-pick-1.png)
